@@ -5,7 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderson.tsx)
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lima-617b50241/)
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersonlima13&show_icons=true&theme=synthwave)
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andersonlima13&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonlima13&layout=compact&theme=synthwave"/>
+</div>
 
 ## Tecnologias ultilizadas por mim 
 
