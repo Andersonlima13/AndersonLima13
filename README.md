@@ -1,11 +1,11 @@
 
 ### Bem vindo ao meu perfil !
 
-[![Portifoio](https://img.shields.io/website?label="AndersonLima&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
+[![Portifoio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=AndersonLima.portifolio&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderson.tsx)
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lima-617b50241/)
 
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersonlima13&show_icons=true&theme=gruvbox)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersonlima13&show_icons=true&theme=synthwave)
 
 ## Tecnologias ultilizadas por mim 
 
