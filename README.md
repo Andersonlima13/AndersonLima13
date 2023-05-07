@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil !
 
 
-#### Me chamo Anderson tenho 19 anos, sou desenvolvedor full-stack e atualmente tenho foco em no desenvolvimento React + Node js e também venho estudando C# com o .Net framework.
+#### Me chamo Anderson tenho 19 anos, sou estudante em sistemas para internet e desenvolvedor full-stack, atualmente tenho foco em no desenvolvimento React + Node js e também venho estudando C# com o .Net framework, Procuro atuar principalmente com o desenvolvimento web , sendo o meu ponto forte , mas também busco me desafiar em outras areas e sempre focado em aprender mais.
 
 
 [![Portifoio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=AndersonLima.portifolio&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
