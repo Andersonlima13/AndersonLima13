@@ -11,8 +11,8 @@
 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andersonlima13&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonlima13&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Andersonlima13&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndersonLima13&layout=compact&theme=synthwave"/>
 </div>
 
 ## Tecnologias ultilizadas por mim 
