@@ -6,7 +6,7 @@
 #### Apaixonado pela area de Ti, Procuro atuar principalmente com a área de desenvolvimento, também me interesso pelas áreas de segurança de Redes e dados.
 
 
-[![Portifoio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=AndersonLima.portifolio&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
+[![Portifoio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=CURRICULO|PORTIFÓLIO&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anderson.tsx)
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lima-617b50241/)
 
