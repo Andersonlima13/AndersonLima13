@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil !
 
 
-#### Me chamo Anderson tenho 20 anos, sou desenvolvedor e graduando de Sistemas para internet, atualmente tenho ultilizado principalmente Python e Nodejs para desenvolvimento back-end.
-#### Apaixonado pela area de Ti, Procuro atuar principalmente com a área de desenvolvimento, também me interesso pelas áreas de segurança de Redes e dados.
+#### Tenho 21 anos, E sou desenvolvedor e graduando em Sistemas para internet, atualmente tenho focado em desenvolvimento full-stack com o ambiente node ! ultilizando do postgree e serviços em nuvem como Bd
+#### Apaixonado pela area de Ti, Procuro atuar e inovar principalmente com a área de desenvolvimento full-stack, Porém me interesso também pelas áreas de segurança de dados e engenharia de dados.
 
 
 [![Portifoio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=CURRICULO|PORTIFÓLIO&style=for-the-badge)](https://andersonlima13.github.io/Portifolio/)
