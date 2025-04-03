@@ -1,12 +1,13 @@
 
-### Bem vindo ao meu perfil !
+### Welcome !
 
 
-#### Tenho 21 anos, E sou desenvolvedor e graduando em Sistemas para internet, atualmente tenho focado em desenvolvimento full-stack com o ambiente node ! ultilizando do postgree e serviços em nuvem como O firebase.
-#### Apaixonado pela area de Ti, Procuro inovar e atuar principalmente com a área de desenvolvimento full-stack, Porém me interesso também pelas área de segurança da informação.
+#### i'm Anderson Lima , Software Developer
 
+<p>- Currently specializing on Full-Stack Web Development with TypeScript, React, Node.js, and PHP. <br>
+- Cybersecurity enthusiast with a passion for pentest 👨‍💻</p>
 
-[![Portifoio](https://img.shields.io/website-up-down-blue-red/http/monip.org.svg?label=CURRICULO|PORTIFÓLIO&style=for-the-badge)](https://portifolio-web-eosin.vercel.app/)
+[![Portifoio](https://img.shields.io/website-up-down-blue-red/http/monip.org.svg?label=CURRICULO|PORTIFOLIO&style=for-the-badge)](https://portifolio-web-eosin.vercel.app/)
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lima-617b50241/)
 
 
@@ -15,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndersonLima13&layout=compact&theme=synthwave"/>
 </div>
 
-## Tecnologias ultilizadas por mim 
+## Stack
 
 <div style="display: inline-block; line-height: 1.5;">
   <!-- Frontend -->
