@@ -1,12 +1,3 @@
-### Welcome !
-
-#### I'm Anderson Lima, Software Developer
-
-<p>- Currently specializing in Full-Stack Web Development with TypeScript, React, Node.js, and PHP. <br>
-- Cybersecurity enthusiast with a passion for pentest 👨‍💻</p>
-
-[![Portfolio](https://img.shields.io/website-up-down-blue-red/http/monip.org.svg?label=CURRICULO%7CPORTIFOLIO&style=for-the-badge&color=bb9af7&labelColor=1a1b26)](https://portifolio-web-eosin.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bb9af7)](https://www.linkedin.com/in/anderson-lima-617b50241/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1a1b26"/>
 
