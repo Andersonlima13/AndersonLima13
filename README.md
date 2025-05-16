@@ -10,8 +10,7 @@
 
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andersonlima13&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andersonlima13&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andersonlima13&theme=tokyonight&utcOffset=8) |
-  | :-: | :-: | :-: |
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andersonlima13&theme=tokyonight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andersonlima13&theme=tokyonight) 
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andersonlima13&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andersonlima13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
   | :-: | :-: |
